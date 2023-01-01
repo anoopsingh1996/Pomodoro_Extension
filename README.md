@@ -1,1 +1,1 @@
-# Timer_Chrome_Extension
+# Pomodoro_Chrome_Extension
